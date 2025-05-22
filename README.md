@@ -1,4 +1,4 @@
-# FLIQ-Virtual-Hackathon UNICC-Challenge QuantumBreast Cancer Classification
+# FLIQ-Virtual-Hackathon UNICC-Challenge QuantumBreast Cancer Classification - Quantum Buddies
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -7,7 +7,7 @@
 
 ## 🏆 Project Overview
 
-This repository contains our solution for the **Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon** organized by UN-ICC. Our project implements a **Quantum-Classical Hybrid Neural Network** for breast cancer classification using Variational Quantum Algorithms (VQAs).
+This repository contains our **Quantum Buddies** team solution for the **Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon** organized by UN-ICC. Our project implements a **Quantum-Classical Hybrid Neural Network** for breast cancer classification using Variational Quantum Algorithms (VQAs).
 
 ### 🎯 Key Features
 - **Hybrid Architecture**: Combines classical neural networks with quantum circuits for enhanced classification
@@ -77,8 +77,8 @@ Our solution implements a three-stage hybrid model:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/FLIQ-Virtual-Hackathon-UNICC-Challenge-QuantumBreast-Cancer-Classification.git
-   cd FLIQ-Virtual-Hackathon-UNICC-Challenge-QuantumBreast-Cancer-Classification
+   git clone https://github.com/yourusername/FLIQ-Virtual-Hackathon-UNICC-Challenge-QuantumBreast-Cancer-Classification-Quantum-Buddies.git
+   cd FLIQ-Virtual-Hackathon-UNICC-Challenge-QuantumBreast-Cancer-Classification-Quantum-Buddies
    ```
 
 2. **Create virtual environment**
@@ -103,7 +103,7 @@ Our solution implements a three-stage hybrid model:
 ## 📁 Project Structure
 
 ```
-FLIQ-Virtual-Hackathon-UNICC-Challenge-QuantumBreast-Cancer-Classification/
+FLIQ-Virtual-Hackathon-UNICC-Challenge-QuantumBreast-Cancer-Classification-Quantum-Buddies/
 ├── README.md                              # This file
 ├── requirements.txt                       # Python dependencies
 ├── FLIQ-Virtual-Hackathon/               # Main hackathon directory
@@ -261,13 +261,30 @@ We welcome contributions! Please:
 
 This project is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) - see the LICENSE file for details.
 
+## 👥 Team: Quantum Buddies
+
+This project was developed by the **Quantum Buddies** team for the FLIQ Virtual Hackathon, demonstrating collaborative quantum machine learning research and development.
+
+**Team Members:**
+- **Alisa Petrusinskaia**
+- **Gyanateet Dutta**
+- **Fiyin Makinde**
+- **Sid Eliyasu**
+
 ## 🙏 Acknowledgments
 
+**Special Thanks to the Quantum Buddies Team:**
+- **Alisa Petrusinskaia** - Quantum algorithm development and implementation
+- **Gyanateet Dutta** - Machine learning architecture and optimization
+- **Fiyin Makinde** - Data analysis and visualization
+- **Sid Eliyasu** - Model evaluation and testing
+
+**Organizations and Resources:**
 - **UN-ICC** and **Quantum Coalition** for organizing the hackathon
 - **IBM Quantum** for Qiskit framework
 - **NVIDIA** for CUDA Quantum support
 - **UCI Machine Learning Repository** for datasets
-- All contributors and mentors
+- All hackathon mentors and organizers
 
 ---
 
