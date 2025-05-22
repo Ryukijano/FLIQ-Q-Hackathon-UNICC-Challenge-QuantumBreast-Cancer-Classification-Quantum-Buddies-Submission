@@ -265,7 +265,7 @@ Sigmoid Activation → Binary Classification (threshold=0.3)
 
 ### Performance Metrics
 
-- **Test Accuracy**: Typically 95%+ (varies with random seed due to quantum circuit initialization)
+- **Test Accuracy**: Typically 73%+ (varies with random seed due to quantum circuit initialization)
 - **Training Convergence**: Model converges within 20-30 epochs
 - **Class Distribution**: 357 benign (62.8%) vs 212 malignant (37.2%) samples
 - **Threshold Optimization**: 0.3 threshold provides better sensitivity for malignant detection
